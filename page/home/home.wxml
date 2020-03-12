@@ -1,3 +1,5 @@
 <!--page/home/home.wxml-->
 <text class="tx">hello wxf</text>
 <button size="mini">提交</button>
+<view>wxffffff</view>
+<view>tag11</view>
